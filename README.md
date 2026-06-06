@@ -35,4 +35,4 @@ Explore insights
 AR-Insights-Dashboard/
 │── AR-Insights-Dashboard.pbix
 │── README.md
-│── Images/ (optional screenshots)
+│── Images/screenshots)
