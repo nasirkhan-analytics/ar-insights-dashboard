@@ -1,3 +1,6 @@
+# 🚀 AR Insights Dashboard  
+### Power BI • Billing & Accounts Receivable Analytics • DAX • Data Modeling
+
 📘 AR Insights Dashboard — Power BI
 A compact Power BI dashboard designed to analyze Accounts Receivable (AR) performance, aging, collections, and customer risk. Built with clean modeling, DAX measures, and a modern navy‑themed layout.
 
